@@ -2,11 +2,15 @@
 
 * Arsun
 
-https://arsun-concept.com/
+    https://arsun-concept.com/
 
-* EcoPV/MaxPV
+        proprietary solution
+
+* MaxPV (previously EcoPV)
 
 https://github.com/Jetblack31/MaxPV
+
+evolution from EcoPV (https://github.com/Jetblack31/EcoPV)
 
 * F1ATB
 
