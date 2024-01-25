@@ -14,7 +14,8 @@ evolution from EcoPV (https://github.com/Jetblack31/EcoPV)
 
 * F1ATB
 
-https://f1atb.fr/index.php/fr/2023/10/06/routeur-photovoltaique-simple-a-realiser/
+https://f1atb.fr/fr/category/francais/domotique/photovoltaique/ (French)
+https://f1atb.fr/category/english/home_automation/photovoltaic/ (English)
 
 * Mon petit routeur Wifi / Clyric
 
