@@ -13,9 +13,10 @@ https://github.com/Jetblack31/MaxPV
 evolution from EcoPV (https://github.com/Jetblack31/EcoPV)
 
 * F1ATB
+  
+ https://f1atb.fr/fr/category/francais/domotique/photovoltaique/ (French)
 
-https://f1atb.fr/fr/category/francais/domotique/photovoltaique/ (French)
-https://f1atb.fr/category/english/home_automation/photovoltaic/ (English)
+ https://f1atb.fr/category/english/home_automation/photovoltaic/ (English)
 
 * Mon petit routeur Wifi / Clyric
 
