@@ -20,6 +20,10 @@ https://f1atb.fr/index.php/fr/2023/10/06/routeur-photovoltaique-simple-a-realise
 
 https://ota.apper-solaire.org/
 
+* Routeur Profs'solaire 
+
+https://sites.google.com/view/le-professolaire/routeur-professolaire
+
 * Ard-tek MSunPV
 
 https://ard-tek.com/
